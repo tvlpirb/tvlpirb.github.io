@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on [Talhah]</title>
-    <link>https://talhah.github.io/tags/</link>
+    <link>https://tvlpirb.github.io/tags/</link>
     <description>Recent content in Tags on [Talhah]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://talhah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tvlpirb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>https://talhah.github.io/tags/development/</link>
+      <link>https://tvlpirb.github.io/tags/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/development/</guid>
+      <guid>https://tvlpirb.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://talhah.github.io/tags/hugo/</link>
+      <link>https://tvlpirb.github.io/tags/hugo/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/hugo/</guid>
+      <guid>https://tvlpirb.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://talhah.github.io/tags/themes/</link>
+      <link>https://tvlpirb.github.io/tags/themes/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/themes/</guid>
+      <guid>https://tvlpirb.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>i18n</title>
-      <link>https://talhah.github.io/tags/i18n/</link>
+      <link>https://tvlpirb.github.io/tags/i18n/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/i18n/</guid>
+      <guid>https://tvlpirb.github.io/tags/i18n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://talhah.github.io/tags/go/</link>
+      <link>https://tvlpirb.github.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/go/</guid>
+      <guid>https://tvlpirb.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://talhah.github.io/tags/golang/</link>
+      <link>https://tvlpirb.github.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/golang/</guid>
+      <guid>https://tvlpirb.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://talhah.github.io/tags/templates/</link>
+      <link>https://tvlpirb.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://talhah.github.io/tags/templates/</guid>
+      <guid>https://tvlpirb.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
