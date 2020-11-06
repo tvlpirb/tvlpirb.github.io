@@ -5,6 +5,16 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+||||||| 62dbe56
+    <language>en-us</language>
+    
+	<atom:link href="https://talhah.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+=======
+    <language>en-us</language><atom:link href="https://talhah.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> cd26747b7a94535972722ba2fc2870c0664dc71f
   </channel>
 </rss>
